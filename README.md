@@ -1,5 +1,5 @@
 # 💫 Hiii!! There, WELCOME...
-👋 I’m  Harish, A enthuastic AIML Engineer <br>🔭 I’m currently working Computer Vision based projects<br>👯 I’m looking for a internship to enhance my skills<br>🤝 I’m looking for help from Artificial intelligence pioneers <br>🌱 I’m currently learning quantum computing and information<br>
+👋 I’m  Harish, A Enthuastic AIML Engineer <br>🔭 I’m currently working Computer Vision based projects<br>👯 I’m looking for a internship to enhance my skills<br>🤝 I’m looking for help from Artificial intelligence pioneers <br>🌱 I’m currently learning quantum computing and information<br>
 
 
 ## 🌐 Socials:
@@ -41,9 +41,6 @@
 
 ### ✍️ My Quotes
 <p style="color:Gray;">" **TRUST THE PROCESS, NOT THE OUTCOME... **"</p>
-
-```diff - text in red + text in green ! text in orange # text in gray @@ text in purple (and bold)@@
-```
 
 
 [![](https://visitcount.itsvg.in/api?id=Harisholympas&icon=0&color=0)](https://visitcount.itsvg.in)
