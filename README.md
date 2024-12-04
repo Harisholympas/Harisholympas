@@ -1,5 +1,5 @@
-# 💫 Hiii!!
-👋 I’m  Harish<br>🔭 I’m currently working Computer Vision based projects<br>👯 I’m looking for a internship to enhance my skills<br>🤝 I’m looking for help from Artificial intelligence pioneers <br>🌱 I’m currently learning quantum computing and information<br>
+# 💫 Hiii!! There
+👋 I’m  Harish a enthuastic AIML Engineer <br>🔭 I’m currently working Computer Vision based projects<br>👯 I’m looking for a internship to enhance my skills<br>🤝 I’m looking for help from Artificial intelligence pioneers <br>🌱 I’m currently learning quantum computing and information<br>
 
 
 ## 🌐 Socials:
