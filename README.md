@@ -1,4 +1,4 @@
-# 💫 Hiii!! There
+# 💫 Hiii!! There, WELCOME...
 👋 I’m  Harish, A enthuastic AIML Engineer <br>🔭 I’m currently working Computer Vision based projects<br>👯 I’m looking for a internship to enhance my skills<br>🤝 I’m looking for help from Artificial intelligence pioneers <br>🌱 I’m currently learning quantum computing and information<br>
 
 
@@ -39,10 +39,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harisholympas&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+### ✍️ My Quotes
+" TRUST THE PROCESS, NOT THE OUTCOME... "
 ---
 [![](https://visitcount.itsvg.in/api?id=Harisholympas&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
