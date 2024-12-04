@@ -40,6 +40,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Harisholympas&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ My Quotes
-<p style="color:DodgerBlue;">" TRUST THE PROCESS, NOT THE OUTCOME... "</p>
----
+<p style="color:Gray;">" TRUST THE PROCESS, NOT THE OUTCOME... "</p>
+
+
 [![](https://visitcount.itsvg.in/api?id=Harisholympas&icon=0&color=0)](https://visitcount.itsvg.in)
