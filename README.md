@@ -1,5 +1,16 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+
 # 💫 Hiii!! There, WELCOME...
-👋 I’m  Harish, A Enthuastic AIML Engineer <br>🔭 I’m currently working Computer Vision based projects<br>👯 I’m looking for a internship to enhance my skills<br>🤝 I’m looking for help from Artificial intelligence pioneers <br>🌱 I’m currently learning quantum computing and information<br>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I’m  Harish, A Enthuastic AIML Engineer <br>🔭 I’m currently working Computer Vision based projects<br>👯 I’m looking for a internship to enhance my skills<br>🤝 I’m looking for help from Artificial intelligence pioneers <br>🌱 I’m currently learning quantum computing and information
+
+
+
+<br>
 
 
 ## 🌐 Socials:
@@ -39,8 +50,18 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harisholympas&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ My Quotes
-**" TRUST THE PROCESS, NOT THE OUTCOME... "**
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 
+<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" />  **My Quote**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=TRUST+THE+PROCESS,;NOT+THE+OUTCOME...&center=true&width=380&height=50&color=16A34A&duration=4000&pause=500">
+  </a>
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=Harisholympas&icon=0&color=0)](https://visitcount.itsvg.in) add some animations in this code for my github readme
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  
+  <img src="https://profile-counter.glitch.me/Harisholympas/count.svg" />
+
+[![](https://visitcount.itsvg.in/api?id=Harisholympas&icon=0&color=0)](https://visitcount.itsvg.in) 
